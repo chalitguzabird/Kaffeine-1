@@ -3,9 +3,9 @@ source 'https://rails-assets.org' do
   gem 'rails-assets-css-modal'
 end
 
-ruby '2.6.5'
+ruby '2.7.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '5.2.3'
+gem 'rails', '6.0.3.2'
 gem 'rake'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
